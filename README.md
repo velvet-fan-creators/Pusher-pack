@@ -1,2 +1,2 @@
-# Pusher-pack
-Coin pusher app
+# Real-coin-pusher
+Coin pusher with orizes
